@@ -14,4 +14,4 @@ Se algum dos meus serviços ou projetos chamou sua atenção, ou se você gostar
 Explore à vontade!
 
 Acesse o link abaixo para acessar a página: 
-- 
+- https://geehdv.github.io/Curriculo-Geovanna/
